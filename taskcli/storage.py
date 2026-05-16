@@ -1,11 +1,8 @@
 import json
 import os
+from .exceptions import StorageError
 
 TASKS_FILE = 'tasks.json'
-
-class StorageError(Exception):
-    """Ошибка при работе с хранилищем."""
-    pass
 
 def load_tasks():
     """Загружает список задач из JSON-файла."""
