@@ -8,7 +8,7 @@
 
 
 
-\*\*Репозиторий:\*\* \[https://github.com/OboBysh/task-manager](https://github.com/OboBysh/task-manager)
+\*\*Репозиторий:\*\* \[https://github.com/OboBysh/task-manager]
 
 
 
